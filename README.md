@@ -114,7 +114,7 @@ FinGuard360/
 ├── notebooks/
 │   └── FinGuard360_Credit_Risk_Analysis.ipynb
 └── powerbi/
-    └── FinGuard360_Credit_Risk_Dashboard.pbix
+    └── README.md
 ```
 
 ## Data
@@ -131,7 +131,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/FinGuard360_Credit_Risk_Analysis.ipynb
 ```
 
-Open `powerbi/FinGuard360_Credit_Risk_Dashboard.pbix` after the notebook exports the curated dashboard tables. If local file paths differ, update the Power BI data-source settings and refresh the model.
+Download [`FinGuard360_Credit_Risk_Dashboard.pbix`](https://github.com/serkankerimsimsek/FinGuard360-Credit-Risk-Analytics/releases/download/v1.0.0/FinGuard360_Credit_Risk_Dashboard.pbix) from the `v1.0.0` release after the notebook exports the curated dashboard tables. If local file paths differ, update the Power BI data-source settings and refresh the model.
 
 ## Responsible-use notes
 
